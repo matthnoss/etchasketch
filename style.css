@@ -1,0 +1,17 @@
+.divs {
+    border: black solid 1px;
+    width: 100%;
+    height: 0;
+    padding-bottom: 6.25%;
+}
+
+#mainDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.mainerDiv {
+    display: flex;
+    flex-direction: row;
+}
